@@ -68,7 +68,7 @@ main {
     justify-content: center;
 }
 
-.fa-brands {
+.icon a {
     font-size: 15px;
     color: white;
     border: 1px solid white;
@@ -80,7 +80,7 @@ main {
     bottom: -3em;
 }
 
-.fa-brands:hover {
+.icon a:hover {
     color: hsl(300, 69%, 71%);
     border: 1px solid hsl(300, 69%, 71%);
 }
