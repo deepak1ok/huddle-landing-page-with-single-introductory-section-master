@@ -50,6 +50,7 @@ main {
 }
 
 .button a {
+    transform: scale(1.05);
     background-color: white;
     padding: 0.6em 3.2em;
     border-radius: 30px;
